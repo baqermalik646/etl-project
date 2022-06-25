@@ -3,8 +3,7 @@
 Kendall Gillies. (2017). Video Game Sales and Ratings. https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings
 Deep Contractor. (2021-2022). Top Video Games 1995-2021 Metacritic. https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic
 
-1. Extract
--We are analysts at a video game company looking to use previous data of video game sales and user ratings to see if there is a correlation between the two.
+1. Extract: We are analysts at a video game company looking to use previous data of video game sales and user ratings to see if there is a correlation between the two.
 -We extracted the two video games datasets, in CSV format, from Kaggle. One dataset provided us with the name of the video game, platform, date of release, and user ratings. The second dataset provided us with the name of the video games as well as the global sales of each video game.
 
 2. Transform
