@@ -4,5 +4,4 @@ Platform varchar(40),
 Release_Date date,
 User_Review float,
 Global_Sales float
-                         Global
 );
