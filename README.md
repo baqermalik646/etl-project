@@ -8,7 +8,7 @@ Deep Contractor. (2021-2022). Top Video Games 1995-2021 Metacritic. https://www.
 -We extracted the two video games datasets, in CSV format, from Kaggle. One dataset provided us with the name of the video game, platform, date of release, and user ratings. The second dataset provided us with the name of the video games as well as the global sales of each video game.
 
 2. Transform
--We brought in our two CSV files into a Jupyter notebook to transform the data.
+We brought in our two CSV files into a Jupyter notebook to transform the data.
 -First, we imported our dependencies and read in the first dataset to a dataframe which provided us with the ratings data.
 -We then cleaned up this dataframe to remove unnecessary columns. Once we had only the necessary columns, we worked on transforming the name of each video games to replace the spaces with underscores, remove unnecessary characters in the names, and made all of them lowercase. This was done to make it easier for us to merge the two datasets later on the names of the video games.
 -Next, we read in the second dataset to a dataframe which provided us with the global sales information. We cleaned this dataframe to only include the necessary columns of the video game name and the global sales. We transformed the names of the video games to replace spaces with underscores, remove unnecessary characters in the names, and made all of them lowercase. Once this was done, we changed the column titles to match with the previous dataframe which was lowercase letters.
